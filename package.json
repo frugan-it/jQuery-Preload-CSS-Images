@@ -1,0 +1,19 @@
+{
+  "name": "jquery-preload-css-images",
+  "version": "1.0.0",
+  "description": "A solution that automates the age-old task of preloading images in web applications.",
+  "main": "preloadCssImages.jQuery_v5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frugan-it/jQuery-Preload-CSS-Images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frugan-it/jQuery-Preload-CSS-Images/issues"
+  },
+  "homepage": "https://github.com/frugan-it/jQuery-Preload-CSS-Images#readme"
+}
